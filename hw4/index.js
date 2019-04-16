@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Then continuing his former tone, he said, "And yet this house you would spoil, Mrs. Dashwood?',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'At last, one day, a publisher asked Louisa, who was now a woman, to write a book for girls.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'The grassy clods now calved; now half appeared The tawny lion, pawing to get free His hinder parts, then springs as broke from bonds, And rampant shakes his brinded mane; the ounce, The libbard, and the tiger, as the mole Rising, the crumbled earth above them threw In hillocks: The swift stag from under ground Bore up his branching head: Scarce from his mould Behemoth biggest born of earth upheaved His vastness: Fleeced the flocks and bleating rose, As plants: Ambiguous between sea and land The river - horse, and scaly crocodile.',
+  'example4':
+      'The times has bene, That when the Braines were out, the man would dye, And there an end: But now they rise againe With twenty mortall murthers on their crownes, And push vs from our stooles.'
 };
 
 function status(statusText) {
